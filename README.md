@@ -1,10 +1,10 @@
-##Freak
+## Freak
 # This Tool is New Updated Tool
- For Facebook Cloning.
+ # For Facebook Cloning.
  # This Tool Doesn't Require Any Login.
  # Login Free Facebook Hacking.
  
- ##Commands For This Tool
+ ## Commands For This Tool
  # apt update && apt upgrade
  # apt install python python2
  # apt install git
