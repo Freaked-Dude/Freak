@@ -11488,7 +11488,7 @@ def login():
         time.sleep(0.05)
         print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m2.\x1b[1;94m Freaked Dude  WhatsApp Group   "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m3.\x1b[1;91m Freaked Dude  Youtube Chenal   "
+        print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m3.\x1b[1;91m Freaked Dude  Youtube Channel   "
         time.sleep(0.05)
 	print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91m Exit             "
 	pilih_login()
